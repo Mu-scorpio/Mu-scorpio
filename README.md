@@ -7,10 +7,10 @@
   <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-commits.svg" alt="Commits" height="190" /></a>
   <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-prs.svg" alt="Pull requests" height="190" /></a>
   <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-stars.svg" alt="Stars" height="190" /></a>
-  <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-followers.svg" alt="Followers" height="190" /></a>
+  <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-issues.svg" alt="Issues" height="190" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-issues.svg" alt="Issues" height="190" /></a>
+  <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-followers.svg" alt="Followers" height="190" /></a>
   <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-repos.svg" alt="Repositories" height="190" /></a>
   <a href="https://github.com/Mu-scorpio/farmcraft-profile-generator"><img src="./assets/farmcraft/loot-merged.svg" alt="Merged pull requests" height="190" /></a>
 </p>
@@ -35,4 +35,4 @@ FarmCraft turns GitHub activity into a pixel village: a two-dimensional contribu
 
 Next.js · React · TypeScript · SVG · next-intl · Cloudflare/Vinext
 
-The SVGs above are generated snapshots stored in this public profile repository so GitHub visitors can render them reliably while the FarmCraft source remains private.
+The SVGs above are generated snapshots from [FarmCraft](https://github.com/Mu-scorpio/farmcraft-profile-generator), stored in this repository so GitHub can render them directly.
